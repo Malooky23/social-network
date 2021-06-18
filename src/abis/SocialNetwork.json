@@ -1,5 +1,6 @@
 {
   "contractName": "SocialNetwork",
+  
   "abi": [
     {
       "constant": true,
@@ -4123,8 +4124,8 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x353b56CEA291f7a618eEEA84932E8bbf56B0eC68",
-      "transactionHash": "0xde8ad89348c9e5f2edff60c117cf973a473ffb2a01e3724ed9b2e4ee5373f620"
+      "address": "0x6F06582A0DF929b06B9DC4a29225f99D45140C54",
+      "transactionHash": "0x62f1bb2399aad0df271acd6e495170f55ff58fd837bf3d75b552afddcb933ae7"
     }
   },
   "schemaVersion": "3.0.2",
